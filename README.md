@@ -2,9 +2,11 @@
 
 # Hello Microverse
 
-## Description
+## Project View
 
 ![hello_microverse snapshot](./images/hello_microverse.png)
+
+## Description
 
 > In this project, I set up a "Hello Microverse" repository. The goal here is to master all of the tools and best practices I learned about in previous steps.
 
