@@ -10,10 +10,15 @@
 
 > In this project, I set up a "Hello Microverse" repository. The goal here is to master all of the tools and best practices I learned about in previous steps.
 
+## Live Demo
+
+See the live by clicking [here](https://tresorsawasawa.github.io/hello_microverse/)
+
 ## Built With
 
 - HTML
 - CSS
+
 
 ## Get Started
 
@@ -21,17 +26,13 @@ To get a local copy up and running follow these simple example steps.
 
 1. Download the Zip file or Clone the Repo
   ```bash
-   https://github.com/tresorsawasawa/hello_microverse.git
+  git clone https://github.com/tresorsawasawa/hello_microverse.git
   ```
 2. To access the directory
   ```bash
    cd/hello_microverse
   ```
 3. Open it with the live server in your browser
-
-## Live Demo
-
-See the live by clicking [here](https://tresorsawasawa.github.io/hello_microverse/)
 
 ## Authors
 
