@@ -19,7 +19,6 @@ See the live by clicking [here](https://tresorsawasawa.github.io/hello_microvers
 - HTML
 - CSS
 
-
 ## Get Started
 
 To get a local copy up and running follow these simple example steps.
