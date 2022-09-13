@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-## Project View 
+## Project View
 
 ![hello_microverse snapshot](./images/hello_microverse.png)
 
